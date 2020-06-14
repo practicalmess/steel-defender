@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/steel-defender/static/css/main.5f361e03.chunk.css",
+    "main.js": "/steel-defender/static/js/main.b46c45b9.chunk.js",
+    "main.js.map": "/steel-defender/static/js/main.b46c45b9.chunk.js.map",
+    "runtime-main.js": "/steel-defender/static/js/runtime-main.3c0ca0ef.js",
+    "runtime-main.js.map": "/steel-defender/static/js/runtime-main.3c0ca0ef.js.map",
+    "static/js/2.fcfb5b0b.chunk.js": "/steel-defender/static/js/2.fcfb5b0b.chunk.js",
+    "static/js/2.fcfb5b0b.chunk.js.map": "/steel-defender/static/js/2.fcfb5b0b.chunk.js.map",
+    "index.html": "/steel-defender/index.html",
+    "precache-manifest.fc44006c4b89ece8c30dd7cfbd3533c1.js": "/steel-defender/precache-manifest.fc44006c4b89ece8c30dd7cfbd3533c1.js",
+    "service-worker.js": "/steel-defender/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/steel-defender/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.fcfb5b0b.chunk.js.LICENSE.txt": "/steel-defender/static/js/2.fcfb5b0b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/steel-defender/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c0ca0ef.js",
+    "static/js/2.fcfb5b0b.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b46c45b9.chunk.js"
+  ]
+}
